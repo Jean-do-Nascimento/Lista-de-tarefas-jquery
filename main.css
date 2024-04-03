@@ -60,7 +60,6 @@ button {
     font-weight: bold;
     text-transform: uppercase;
     cursor: pointer;
-    color: white;
 }
 
 button:hover {
@@ -72,7 +71,6 @@ button:hover {
 }
 
 #btn-cancelar a {
-    color: white;
     text-decoration: none;
 }
 
