@@ -84,13 +84,13 @@ ol {
     align-content: center;
     margin-top: 19px;
     margin-right: 80px;
-    max-width: 2040px;
 }
 
 ol li {
     text-transform: uppercase;
     margin: 0 600px;
     font-weight: bold;
+    max-width: 1024px;
 }
 
 li {
