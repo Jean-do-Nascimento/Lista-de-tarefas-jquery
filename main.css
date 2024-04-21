@@ -90,6 +90,7 @@ ol li {
     text-transform: uppercase;
     margin: 0 600px;
     font-weight: bold;
+    display: inline;
 }
 
 li {
@@ -97,7 +98,6 @@ li {
     text-align: center;
     max-height: 230px;
     cursor: pointer;
-    display: inline;
 }
 
 li.completed {
