@@ -88,9 +88,8 @@ ol {
 
 ol li {
     text-transform: uppercase;
-    margin: 0 600px;
+    margin: 0 100px;
     font-weight: bold;
-    display: inline;
 }
 
 li {
