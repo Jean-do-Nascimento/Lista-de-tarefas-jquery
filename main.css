@@ -84,6 +84,7 @@ ol {
     align-content: center;
     margin-top: 19px;
     margin-right: 80px;
+    max-width: 240px;
 }
 
 ol li {
