@@ -41,6 +41,7 @@ button {
 input {
     border-color: black;
     border: 1px solid;
+    color: black;
 }
 
 input:hover,
